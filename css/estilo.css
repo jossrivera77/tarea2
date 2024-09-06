@@ -1,0 +1,55 @@
+*
+{
+    background-color: black;
+    margin: -10px;
+}
+
+.cabeza
+{
+    background-color: white;
+    width: 150px; height: 150px;
+    border-radius: 50%;
+}
+
+.cuerpo
+{
+    background-color: white;
+    width: 200px; height: 200px;
+    border-radius: 50%;
+}
+.cola
+{
+    background-color: white;
+    width: 250px; height: 250px;
+    border-radius: 50%;
+}
+
+.ojo1
+{
+    width: 45px; height: 45px;
+    background-color: aqua;
+    border-radius: 50%;
+    position: relative;
+    top: 40px;
+    left: 20px;
+    
+}
+.ojo2
+{
+    width: 45px; height: 45px;
+    background-color: aqua;
+    border-radius: 50%;
+    position: relative;
+    left: 70px;
+
+}
+.botones
+{
+    background-color: maroon;
+    width: 20px; height: 20px;
+    border-radius: 50%;
+    position: relative;
+    top: 50px;
+    left: 80px;
+    margin: 10px;
+}
